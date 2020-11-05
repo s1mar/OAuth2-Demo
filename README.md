@@ -23,7 +23,7 @@ In this project, I have demonstrated the use of OAuth 2 for Authorization. The c
 - For the User Amreen, under Role Mappings, please assign the **sevenfive_user** role.
 
 ##### [MySql](https://dev.mysql.com/downloads/) 
-I have used MySql 8.0 for this project
+I have used MySql 8.0 for this project. Please create a database named sevenfivefive_oauth in it.
 
 ##### The Project
  - Add your data source(MySql) password and username.
